@@ -1,0 +1,22 @@
+words = {
+    "Hello": "Halo",
+    "Thank you": "Terima kasih",
+    "Please": "Tolong",
+    "Excuse me": "Permisi",
+    "Sorry": "Maaf",
+    "Yes": "Ya",
+    "No": "Tidak",
+    "Good": "Baik",
+    "Bad": "Buruk",
+    "Friend": "Teman",
+    "Family": "Keluarga",
+    "House": "Rumah",
+    "Food": "Makanan",
+    "Water": "Air",
+    "Happy": "Bahagia",
+    "Sad": "Sedih",
+    "Fast": "Cepat",
+    "Slow": "Lambat",
+    "Big": "Besar",
+    "Small": "Kecil"
+}
